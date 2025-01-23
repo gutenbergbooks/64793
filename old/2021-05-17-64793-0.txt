@@ -14,9 +14,10 @@ Title: H. G. Hawker, airman: his life and work
 Author: Muriel Hawker
 
 Release Date: May 17, 2021 [eBook #64793]
-[Most recently updated: November 24, 2022]
 
 Language: English
+
+Character set encoding: UTF-8
 
 Produced by: Fay Dunn, Fiona Holmes, and the Online Distributed
              Proofreading Team at http://www.pgdp.net (This file was
